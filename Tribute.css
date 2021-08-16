@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+  background-color: turquoise;
+}
+h1{
+  font-family: lobster;
+  font-size: 50px;
+}
+h2{
+  font-size: 30px;
+  color: white;
+}
+p{
+  font-size: 16px;
+}
+#title{
+  background-color: white;
+}
+#image{
+  max-width: 100%;
+}
