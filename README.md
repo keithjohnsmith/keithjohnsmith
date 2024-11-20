@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on an All-in-one business solution for African Businesses<br><br>I am looking to collaborate on any open-source projects in Java, C#, or JavaScript<br><br>I am currently learning JavaFX<br><br>Fun Fact: My favorite Author is J. R. R. Tolkien
+I am currently working on an All-in-one business solution for African Businesses<br><br>I am looking to collaborate on any open-source projects in Java, C#, or JavaScript<br><br>I am currently learning JavaFX<br><br>Fun Fact: My favorite Author is J. R. R. Tolkien<br><br>[![My Portfolio](https://tinyurl.com/keithjohnsmithportfolio)
 
 
 ## 🌐 Socials:
